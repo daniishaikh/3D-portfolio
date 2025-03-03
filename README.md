@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
       <img src="3ddev.png" alt="Project Banner">
     </a>
   <br />
